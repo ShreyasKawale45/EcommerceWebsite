@@ -202,14 +202,14 @@
         $('.js-panel-cart').removeClass('show-header-cart');
     });
     /*==================================================================
-    [ Whishlist ]*/
-    $('.js-show-wishlist').on('click',function(){
-        $('.js-panel-wishlist').addClass('show-header-wishlist');
-    });
+    //[ Whishlist ]*/
+    //$('.js-show-wishlist').on('click',function(){
+    //    $('.js-panel-wishlist').addClass('show-header-wishlist');
+    //});
 
-    $('.js-hide-wishlist').on('click',function(){
-        $('.js-panel-wishlist').removeClass('show-header-wishlist');
-    });
+    //$('.js-hide-wishlist').on('click',function(){
+    //    $('.js-panel-wishlist').removeClass('show-header-wishlist');
+    //});
 
     /*==================================================================
     [ Cart ]*/
